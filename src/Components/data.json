@@ -1,0 +1,78 @@
+[
+    {
+        "showcaseimg":"https://images.pexels.com/photos/3354648/pexels-photo-3354648.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "image":["https://i.ibb.co/tPdrzt8/project-3.png","https://i.ibb.co/tPdrzt8/project-3.png","https://i.ibb.co/tPdrzt8/project-3.png"],
+        "title":"Capture | Capture Your Moment (photography)",
+        "livelink":"https://capture-d7c1e.web.app/",
+        "githublink":"https://github.com/hasan-dev1/capture-client",
+        "description":"",
+        "technology":"Technologies: Reactjs, MongoDB, nodejs, jwt, tailwindcss, daisy UI,react-router, GitHub, tanstack_query",
+        "bulletpoint":["Customers can find their services easily","After After taking the service, Client can give a review with star and text","Client can see there added review in My review Page","description","description"]
+    },
+    {
+        "showcaseimg":"https://images.pexels.com/photos/3354648/pexels-photo-3354648.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "image":["https://i.ibb.co/C90NKq4/project-2.png","https://i.ibb.co/tPdrzt8/project-3.png","https://i.ibb.co/tPdrzt8/project-3.png"],
+        "title":"Car-Doctor | Car Service point",
+        "livelink":"https://car-garage-452b7.web.app/",
+        "githublink":"https://github.com/hasan-dev1/genius-car",
+        "description":"bulletpoint bulletpoint bulletpoint bulletpoint",
+        "technology":"Technologies: Nodejs, jwt, tailwindcss, daisy UI,react-router,GitHub, tanstack_query, Reactjs, MongoDB, ",
+        "bulletpoint":[
+          "Easy way to car service management",
+          "Customer can Buy Service packages",
+          "Complete management with the Authentication system",
+          "description",
+          "description"
+        ]
+    },
+    {
+        "showcaseimg":"https://images.pexels.com/photos/3354648/pexels-photo-3354648.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "image":["https://i.ibb.co/tPdrzt8/project-3.png","https://i.ibb.co/tPdrzt8/project-3.png","https://i.ibb.co/tPdrzt8/project-3.png"],
+        "title":"Doctor-Portal  | Personal website for a Physician",
+        "livelink":"https://doctor-portals-da7fe.web.app/",
+        "githublink":"https://github.com/hasan-dev1/doctor-portal-client",
+        "description":"bulletpoint bulletpoint bulletpoint bulletpoint",
+        "technology":"Technologies: Tailwindcss, reactjs, MongoDB, JWT, stripe payment method, rest API, tanstack_query",
+        "bulletpoint":["You can make an appointment very easily","There are separate sections for customer and admin","Using the stripe payment method","description","description"]
+    },
+    {
+        "showcaseimg":"https://images.pexels.com/photos/3354648/pexels-photo-3354648.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "image":["https://i.ibb.co/tPdrzt8/project-3.png","https://i.ibb.co/tPdrzt8/project-3.png","https://i.ibb.co/tPdrzt8/project-3.png"],
+        "title":"text text",
+        "livelink":"Link",
+        "githublink":"linkgit",
+        "description":"bulletpoint bulletpoint bulletpoint bulletpoint",
+        "technology":"Technologies: Tailwindcss, reactjs, MongoDB, JWT, stripe payment method, rest API, tanstack_query",
+        "bulletpoint":["description","description","description","description","description"]
+    },
+    {
+        "showcaseimg":"https://images.pexels.com/photos/3354648/pexels-photo-3354648.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "image":["https://i.ibb.co/tPdrzt8/project-3.png","https://i.ibb.co/tPdrzt8/project-3.png","https://i.ibb.co/tPdrzt8/project-3.png"],
+        "title":"text text",
+        "livelink":"Link",
+        "githublink":"linkgit",
+        "description":"bulletpoint bulletpoint bulletpoint bulletpoint",
+        "technology":"Technologies: Tailwindcss, reactjs, MongoDB, JWT, stripe payment method, rest API, tanstack_query",
+        "bulletpoint":["description","description","description","description","description"]
+    },
+    {
+        "showcaseimg":"https://images.pexels.com/photos/3354648/pexels-photo-3354648.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "image":["https://i.ibb.co/tPdrzt8/project-3.png","https://i.ibb.co/tPdrzt8/project-3.png","https://i.ibb.co/tPdrzt8/project-3.png"],
+        "title":"text text",
+        "livelink":"Link",
+        "githublink":"linkgit",
+        "description":"bulletpoint bulletpoint bulletpoint bulletpoint",
+        "technology":"Technologies: Tailwindcss, reactjs, MongoDB, JWT, stripe payment method, rest API, tanstack_query",
+        "bulletpoint":["description","description","description","description","description"]
+    },
+    {
+        "showcaseimg":"https://images.pexels.com/photos/3354648/pexels-photo-3354648.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "image":["https://i.ibb.co/tPdrzt8/project-3.png","https://i.ibb.co/tPdrzt8/project-3.png","https://i.ibb.co/tPdrzt8/project-3.png"],
+        "title":"text text",
+        "livelink":"Link",
+        "githublink":"linkgit",
+        "description":"bulletpoint bulletpoint bulletpoint bulletpoint",
+        "technology":"Technologies: Tailwindcss, reactjs, MongoDB, JWT, stripe payment method, rest API, tanstack_query",
+        "bulletpoint":["description","description","description","description","description"]
+    }
+]

@@ -1,0 +1,27 @@
+.hoverimg{
+    transition: 0.3s;
+}
+.hovereffect{
+    overflow: hidden;
+}
+.hovereffect:hover .hoverimg{
+    transform: scale(1.5);
+}
+.hovereffect .effecton{
+    display: none;
+    
+    
+}
+.hovereffect:hover .effecton{
+    background: #172C4F;
+    color: #009EFF;
+    display: block;
+    text-align: center;
+    padding-top: 70px;
+    animation: fadeIn 0.8s;
+}
+
+@keyframes fadeIn {
+    0%{opacity: 0;}
+    100%{opacity: 1;}
+}
