@@ -15,7 +15,7 @@ const HomeBanner = () => {
   },[])
   
   return (
-    <div id="home" className="flex justify-between items-center  imgbg py-48 mx-auto ">
+    <div id="home" className="flex justify-between items-center lg:max-w-[1170px]  imgbg py-48 mx-auto ">
       <div className="lg:w-1/2 flex justify-center flex-col items-start text-white ">
         <h3 className="lg:text-5xl text-3xl leading-[45px]  font-bold">
           <span>
