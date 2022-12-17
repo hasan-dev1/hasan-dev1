@@ -9,7 +9,7 @@ import Service from '../Pages/Service/Service';
 const Home = () => {
 
     return (
-      <div>
+      <div className='lg:mx-0 mx-3'>
         <div>
           <HomeBanner></HomeBanner>
         </div>

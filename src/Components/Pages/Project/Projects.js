@@ -19,9 +19,9 @@ const Projects = () => {
         scondtext={"My Resent Work"}
         thirdtext="You can see my previous work and see what kind of projects I create for my practice"
       ></SectionHeader>
-      <div className="grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-6 w-[1170px] mx-auto mb-[30px] mt-[30px]">
+      <div className="grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-6 w-full lg:w-[1170px] mx-auto mb-[30px] mt-[30px]">
         {project?.slice(0, 6).map((item, idx) => (
-          <div className={` w-full max-h-[280px] relative hovereffect`}>
+          <div key={idx} className={` w-full h-[280px] relative hovereffect`}>
             <img className="w-full h-full hoverimg" src={item?.image} alt="" />
 
             <div className="absolute top-0 left-0 w-full h-full text-2xl px-5 text-center flex justify-center items-center text-white bg-[#372d6da6]">

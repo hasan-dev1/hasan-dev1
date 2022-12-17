@@ -4,10 +4,10 @@ import '../../../App.css'
 
 const About = () => {
     return (
-      <div id='about' className=" grid lg:grid-cols-2 py-[110px] max-w-[1170px] mx-auto">
+      <div id='about' className=" grid lg:grid-cols-2 py-[110px] lg:max-w-[1170px] w-full mx-auto">
         <div className="">
           <img
-            className="w-full rounded h-[350px] my-auto pr-8 filterimg"
+            className="w-full rounded h-[350px] my-auto lg:pr-8  filterimg"
             src="signup.gif"
             alt=""
           />

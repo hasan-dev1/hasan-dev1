@@ -15,12 +15,12 @@ const Contuctus = () => {
         console.log(email, description)
     }
     return (
-      <div id="hireme" className="w-[1170px] mx-auto ">
+      <div id="hireme" className=" w-full lg:w-[1170px] mx-auto ">
         <SectionHeader firstext={"Contuct Info"}></SectionHeader>
         <p className='text-center'>Send a email or Call me</p>
 
         <div className="grid lg:grid-cols-2 md:grid-cols-2 grid-cols-1 my-6 items-center">
-          <div className="pr-6 flex justify-center ">
+          <div className="lg:pr-6 lg:mb-0 mb-4 flex justify-center ">
             <img
               className="w-full h-[350px] rounded"
               src="development.gif"
@@ -29,7 +29,7 @@ const Contuctus = () => {
           </div>
           <div className="bg-slate-600 px-2 py-16 rounded">
             <form onSubmit={handleformsubmit}>
-              <div className="flex flex-col items-start justify-center my-auto">
+              <div className="flex flex-col lg:items-start items-center justify-center my-auto">
                 <input
                   type="email"
                   name="email"

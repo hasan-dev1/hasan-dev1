@@ -3,7 +3,7 @@ import { FaCode, FaNodeJs, FaReact } from "react-icons/fa";
 
 const Service = () => {
   return (
-    <div id="service" className="text-center max-w-[1170px] mx-auto mb-20">
+    <div id="service" className="text-center w-full lg:max-w-[1170px] mx-auto mb-20">
       <h3 className="text-5xl text-white">My Service</h3>
       <p>The kind of service I provide</p>
 

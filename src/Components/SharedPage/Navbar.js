@@ -12,7 +12,7 @@ const Navbar = () => {
         <li className='mx-1' key={5}><NavLink className={'hover:bg-slate-700 rounded py-2 px-4'} to={'/blogs'}>Blogs</NavLink></li>,
     ]
     return (
-      <div className="navbar text-white w-[1170px] mx-auto">
+      <div className="navbar text-white lg:w-[1170px] mx-auto">
         <div className="navbar-start">
           <div className="dropdown">
             <label tabIndex={0} className="btn btn-ghost lg:hidden">

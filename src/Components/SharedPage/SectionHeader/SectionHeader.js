@@ -5,7 +5,7 @@ const SectionHeader = ({firstext, scondtext, thirdtext}) => {
       <div className='flex flex-col justify-center items-center'>
         <h3 className="text-[1.5rem] text-[#f507f5]">{firstext}</h3>
         <h3 className="text-[2.5rem] text-white leading-8">{scondtext}</h3>
-        <p className="text-[#a09393a8]">{thirdtext}</p>
+        <p className="text-[#a09393a8] text-center mx-4">{thirdtext}</p>
       </div>
     );
 };

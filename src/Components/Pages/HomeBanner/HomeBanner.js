@@ -15,9 +15,9 @@ const HomeBanner = () => {
   },[])
   
   return (
-    <div id="home" className="flex justify-between items-center max-w-[1170px] imgbg py-48 mx-auto ">
-      <div className="w-1/2 flex justify-center flex-col items-start   text-white ">
-        <h3 className="text-5xl  leading-[45px]  font-bold">
+    <div id="home" className="flex justify-between items-center  imgbg py-48 mx-auto ">
+      <div className="lg:w-1/2 flex justify-center flex-col items-start text-white ">
+        <h3 className="lg:text-5xl text-3xl leading-[45px]  font-bold">
           <span>
             <span className={letterClass}>H</span>
             <span className={`${letterClass} _4`}>i, &nbsp;</span>
@@ -41,7 +41,7 @@ const HomeBanner = () => {
             ></AnimatedLetter>
           </span>
         </h3>
-        <h3 className="text-5xl mt-6 leading-[45px] font-bold">
+        <h3 className="lg:text-5xl text-3xl mt-6 leading-[45px] font-bold">
           {/* MernStack <span className=" text-[#f507f5]">Developer</span> */}I
           am a{" "}
           <TypeAnimation
