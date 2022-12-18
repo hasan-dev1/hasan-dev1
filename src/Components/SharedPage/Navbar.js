@@ -6,9 +6,9 @@ const Navbar = () => {
 
     const navbarItem = [
         <li className='mx-1' key={1}><NavLink className={'hover:bg-slate-700 rounded py-2 px-4'} to={'/'}>Home</NavLink></li>,
-        <li className='mx-1' key={2}><a className={'hover:bg-slate-700 rounded py-2 px-4'} href="#about">Aboute Me</a></li>,
+        <li className='mx-1' key={2}><a className={'hover:bg-slate-700 rounded py-2 px-4'} href="#about">About Me</a></li>,
         <li className='mx-1' key={4}><a className={'hover:bg-slate-700 rounded py-2 px-4'} href="#project">Project</a></li>,
-        <li className='mx-1' key={3}><a className={'hover:bg-slate-700 rounded py-2 px-4'} href="#hireme">Contuct Us</a></li>,
+        <li className='mx-1' key={3}><a className={'hover:bg-slate-700 rounded py-2 px-4'} href="#hireme">Contruct Us</a></li>,
         <li className='mx-1' key={5}><NavLink className={'hover:bg-slate-700 rounded py-2 px-4'} to={'/blogs'}>Blogs</NavLink></li>,
     ]
     return (
