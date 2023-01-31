@@ -15,7 +15,10 @@ const HomeBanner = () => {
   },[])
   
   return (
-    <div id="home" className="flex justify-between items-center lg:max-w-[1170px]  imgbg py-48 mx-auto ">
+    <div
+      id="home"
+      className="flex justify-between items-center lg:max-w-[1170px]  imgbg py-48 mx-auto "
+    >
       <div className="lg:w-1/2 flex justify-center flex-col items-start text-white ">
         <h3 className="lg:text-5xl text-3xl leading-[45px]  font-bold">
           <span>
@@ -73,9 +76,11 @@ const HomeBanner = () => {
             Hire Me
           </a>
           <a
-            href="hasans_resume.pdf"
+            href="https://drive.google.com/file/d/18UyRMMDGWngK65QxnY9Rbl6jqqYrI7RC/view?usp=share_link"
             className="mx-2 btn px-8 text-white pt-1 rounded-[30px] bg-[#f507f5] btn-sm hover:bg-slate-600"
-            download={"hasans_resume.pdf"}
+            download={
+              "https://drive.google.com/file/d/18UyRMMDGWngK65QxnY9Rbl6jqqYrI7RC/view?usp=share_link"
+            }
           >
             Download Resume
           </a>
